@@ -1,0 +1,24 @@
+body{
+	font-family: 'Macondo', cursive;
+	background-image: url("https://cdn.stocksnap.io/img-thumbs/960w/4B69RX5N5I.jpg");
+	background-size: cover;
+}
+h1{
+		font-family: 'Macondo', cursive;
+		text-align: center;
+		font-size: 7em;
+}
+#message{
+	font-family: 'Macondo', cursive;
+}
+.container{
+	opacity: 1;      
+	margin: 15em auto;                                                
+}
+.theButtons{
+	text-align: center;
+	margin-top: 5em;
+}
+.btn{
+	margin-bottom: 10px;
+}
